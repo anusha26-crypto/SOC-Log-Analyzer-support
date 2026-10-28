@@ -1,0 +1,9 @@
+test_counts_and_alert (test_main.TestLogAnalyzer.test_counts_and_alert) ... ok
+test_invalid_event (test_main.TestLogAnalyzer.test_invalid_event) ... ok
+test_invalid_threshold (test_main.TestLogAnalyzer.test_invalid_threshold) ... ok
+test_threshold_above_failures_no_alert (test_main.TestLogAnalyzer.test_threshold_above_failures_no_alert) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.005s
+
+OK
