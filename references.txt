@@ -1,0 +1,6 @@
+References
+1. Python csv module: https://docs.python.org/3/library/csv.html
+2. Python unittest module: https://docs.python.org/3/library/unittest.html
+3. RFC 5737 — IPv4 Address Blocks Reserved for Documentation: https://www.rfc-editor.org/rfc/rfc5737
+
+Safety note: This demonstration uses synthetic log entries and documentation-only IP ranges. It is a learning project, not a production security monitoring system.
